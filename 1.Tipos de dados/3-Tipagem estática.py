@@ -9,4 +9,3 @@ peso: float = 62.00
 print(f'Nome: {nome}')
 print(f'Idade: {idade}')
 print(f'Peso: {peso}')
-
